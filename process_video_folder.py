@@ -95,8 +95,8 @@ def proc_vid_folder(folder, model_resolution='432x368', model='cmu', display=Fal
                     # output the inference
                     human_list.append([tstamp /1000 , humans])
                     
-                    if cv2.waitKey(1) == 27:
-                        break
+#                    if cv2.waitKey(1) == 27:
+#                        break
          
                 # Break the loop
                 else: 
