@@ -17,7 +17,7 @@ L = instaloader.Instaloader(sleep=True, quiet=False, user_agent=None, dirname_pa
 
 # Optionally, login or load session
 #L.login("vandenbenj", "xxxxx11")        # (login)
-L.interactive_login("vandenbenj")
+#L.interactive_login("vandenbenj")
 
 # Download from hashtag
 #for post in L.get_hashtag_posts('poletricks'):
