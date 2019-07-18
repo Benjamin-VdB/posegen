@@ -1,6 +1,6 @@
 # posegen - generative dance patterns
 
-Dataset of real sequences built by pose estimation treatment of instagram videos (openpose CMU, 17 squeleton points)
+Dataset of real sequences built by pose estimation processing of instagram videos (openpose CMU, 17 squeleton points)
 
 ## Models:
 - seq2seq
